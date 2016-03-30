@@ -1,0 +1,2 @@
+# git lol   pour  visualiser graphiquement les branches
+git config --global alias.lol "log --oneline --graph --decorate --all"
