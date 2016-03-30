@@ -1,2 +1,13 @@
-# git lol   pour  visualiser graphiquement les branches
 git config --global alias.lol "log --oneline --graph --decorate --all"
+
+git config --global alias.co checkout
+
+git config --global alias.br branch
+
+git config --global alias.ci commit
+
+git config --global alias.st status
+
+
+
+http://www.wei-wang.com/ExplainGitWithD3/
