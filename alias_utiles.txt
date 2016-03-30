@@ -10,4 +10,4 @@ git config --global alias.st status
 
 
 
-http://www.wei-wang.com/ExplainGitWithD3/
+
