@@ -1,0 +1,3 @@
+# git_trucs_et_astuces
+boite à outil Git
+pour savoir où tout ça se trouve...
