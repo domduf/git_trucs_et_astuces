@@ -1,2 +1,5 @@
 http://www.wei-wang.com/ExplainGitWithD3/
 https://www.youtube.com/watch?v=V6Zo68uQPqE
+
+Aide mémoire des commandes utiles:
+https://training.github.com/kit/downloads/fr/github-git-cheat-sheet.pdf
