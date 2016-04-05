@@ -17,6 +17,6 @@ git config --global alias.ci commit
 #ou on en est...git st
 git config --global alias.st status
 
-
+#ici je n'ai pas d'idée, mais j'essais de configurer ma façon de puller/pusher mes branches.
 
 
