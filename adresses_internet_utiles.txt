@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=V6Zo68uQPqE
 # tuto assez complet (en anglais)
 https://www.atlassian.com/git/tutorials/what-is-git
 
-# deployer avec git:
+# deployer avec git (automatiser la maj via git):
 https://www.grafikart.fr/blog/deployer-site-git
 
 #Aide mémoire des commandes utiles:
