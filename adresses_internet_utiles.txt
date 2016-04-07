@@ -5,5 +5,8 @@ https://www.youtube.com/watch?v=V6Zo68uQPqE
 
 https://www.atlassian.com/git/tutorials/what-is-git
 
+# deployer avec git:
+https://www.grafikart.fr/blog/deployer-site-git
+
 Aide mémoire des commandes utiles:
 https://training.github.com/kit/downloads/fr/github-git-cheat-sheet.pdf
