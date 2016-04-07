@@ -1,4 +1,9 @@
 
+# guide git-book "officiel":
+https://git-scm.com/book/fr/v2/
+ou
+https://git-scm.com/book/fr/v1/
+
 # Visulaiser ce qu'effectuent quelque commandes git (ligne de commande):
 http://www.wei-wang.com/ExplainGitWithD3/
 
