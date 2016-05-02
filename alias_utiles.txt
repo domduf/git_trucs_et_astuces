@@ -1,20 +1,20 @@
 
-#Super pour voir où on se trouve, où en est le HEAD, en couleur: git lol
+# Super pour voir où on se trouve, où en est le HEAD, en couleur: git lol
 git config --global alias.lol "log --oneline --graph --decorate --all"
 
-#Pour voir differents renseignement sur le depot distant: git rem
+# Pour voir differents renseignement sur le depot distant: git rem
 git config --global alias.rem "remote show origin"
 
-#Se placer sur une  branche en un clin d'oeil: git co
+# Se placer sur une  branche en un clin d'oeil: git co
 git config --global alias.co checkout
 
-#Nouvelle branche [nom] ou liste des braches utilisé seul: git br
+# Nouvelle branche [nom] ou liste des braches utilisé seul: git br
 git config --global alias.br branch
 
-#Commiter: git ci
+# Commiter: git ci
 git config --global alias.ci commit
 
-#ou on en est...git st
+# où on en est...git st
 git config --global alias.st status
 
 #et toutes ces commandes à la suite:
