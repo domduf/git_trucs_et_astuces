@@ -28,3 +28,5 @@ git config --global alias.st status
 #mettre en couleur:
 git config --global color.ui true
 
+# contenu du log dans un fichier:
+git config --local alias.versus "log --pretty=format:"%ad .... %s" > ./docs/version.txt"
