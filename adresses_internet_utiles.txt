@@ -10,6 +10,10 @@ http://www.wei-wang.com/ExplainGitWithD3/
 # débuter avec git et github, Le Wagon
 https://www.youtube.com/watch?v=V6Zo68uQPqE
 
+# git immersion, tuto pas à pas assez complet:
+# tour guidé qui permet de voir les fondamentaux de Git
+http://gitimmersion.fr/
+
 # tuto assez complet (en anglais)
 https://www.atlassian.com/git/
 
