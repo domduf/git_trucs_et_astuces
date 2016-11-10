@@ -42,3 +42,7 @@ NO_COLOR="\[\033[0m\]"
  
 PS1="$GREEN\u@\h$NO_COLOR:\w$YELLOW\$(parse_git_branch)$NO_COLOR\$ "
 
+
+# contenu du log dans un fichier:
+git config --local alias.versus "log --pretty=format:"%ad .... %s" > ./docs/version.txt"
+
