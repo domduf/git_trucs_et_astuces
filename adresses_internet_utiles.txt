@@ -25,3 +25,6 @@ https://training.github.com/kit/downloads/fr/github-git-cheat-sheet.pdf
 
 #Utiliser Git sur un dépot Dropbox
 http://frabad.free.fr/index.php?page=Dropbox+Git
+
+#Un bon (gros) resumé de Git, avec des exemples
+http://bioinfo-fr.net/git-usage-collaboratif
