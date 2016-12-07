@@ -25,3 +25,6 @@ https://training.github.com/kit/downloads/fr/github-git-cheat-sheet.pdf
 
 #Utiliser Git sur un dépot Dropbox
 http://frabad.free.fr/index.php?page=Dropbox+Git
+
+#un aide mémoire sympa
+http://alainericgauthier.com/git/aide_memoire_git
