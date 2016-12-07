@@ -28,3 +28,7 @@ http://frabad.free.fr/index.php?page=Dropbox+Git
 
 #un aide mémoire sympa
 http://alainericgauthier.com/git/aide_memoire_git
+
+#Un bon (gros) resumé de Git, avec des exemples
+http://bioinfo-fr.net/git-usage-collaboratif
+
