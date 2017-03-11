@@ -32,3 +32,5 @@ http://alainericgauthier.com/git/aide_memoire_git
 #Un bon (gros) resumé de Git, avec des exemples
 http://bioinfo-fr.net/git-usage-collaboratif
 
+#Une belle introduction en Frenchy
+http://liris.cnrs.fr/~pchampin/enseignement/intro-git/#
