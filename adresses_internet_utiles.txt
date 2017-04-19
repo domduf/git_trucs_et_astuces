@@ -34,3 +34,6 @@ http://bioinfo-fr.net/git-usage-collaboratif
 
 #Une belle introduction en Frenchy
 http://liris.cnrs.fr/~pchampin/enseignement/intro-git/#
+
+# une source d'alias...
+https://git.wiki.kernel.org/index.php/Aliases
